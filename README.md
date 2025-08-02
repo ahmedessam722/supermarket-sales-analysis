@@ -6,14 +6,13 @@ Data analysis of supermarket sales using Python and Streamlit, including explora
 - **Interactive Streamlit Dashboard**: User-friendly interface for exploring the analysis results interactively.
 ## Project Structure
 supermarket-sales-analysis/
-├── SuperMarketAnalysis.csv # Dataset file
-├── marketDA.py # Data analysis functions
-├── visuals.py # Visualization functions
-├── dash_market.py # Streamlit interactive dashboard
-└── README.md # This file
+- ├── SuperMarketAnalysis.csv # Dataset file
+- ├── marketDA.py # Data analysis functions
+- ├── visuals.py # Visualization functions
+- ├── dash_market.py # Streamlit interactive dashboard
+- └── README.md # This file
 ## How to Run
 ### 1. Install required packages:
-```bash
 pip install pandas matplotlib seaborn streamlit
 ### 2. Run the Streamlit app:
 streamlit run dash_market.py
