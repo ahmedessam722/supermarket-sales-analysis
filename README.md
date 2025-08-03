@@ -34,6 +34,3 @@ streamlit run dash_market.py
 Ahmed Essam
 ## License
 This project is for educational and analytical purposes only. No official license attached.
-
-نسخ
-تحرير
